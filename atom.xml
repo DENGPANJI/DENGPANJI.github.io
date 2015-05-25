@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.dengpanji.com/"/>
-  <updated>2015-05-25T08:45:12.021Z</updated>
+  <updated>2015-05-25T12:39:23.916Z</updated>
   <id>http://www.dengpanji.com/</id>
   
   <author>
@@ -13,6 +13,19 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[终于配置完成了]]></title>
+    <link href="http://www.dengpanji.com/2015/05/25/%E7%BB%88%E4%BA%8E%E9%85%8D%E7%BD%AE%E5%AE%8C%E6%88%90%E4%BA%86/"/>
+    <id>http://www.dengpanji.com/2015/05/25/终于配置完成了/</id>
+    <published>2015-05-25T12:39:23.000Z</published>
+    <updated>2015-05-25T12:39:23.916Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[My New Post]]></title>
